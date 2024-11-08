@@ -7,12 +7,13 @@ public class Calculator {
 
     /**
      * Adds two numbers together.
+     * test
      *
      * @param a the first number
      * @param b the second number
      * @param c the third number
      * @return the sum of a and b
-     * @author
+     * @author shilpa
      */
     public int add(int a, int b , int c) {
         return a + b +c;
