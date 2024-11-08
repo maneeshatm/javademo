@@ -3,17 +3,21 @@
  */
 /**this is new */
 /** first */
+
+/** @author shilpa */
+
+
 public class Calculator {
 
     /**
      * Adds two numbers together.
      * test
      *
-     * @param a the first number
+     * @param a the 1st number
      * @param b the second number
      * @param c the third number
      * @return the sum of a and b
-     * @author shilpa
+     * 
      */
     public int add(int a, int b , int c) {
         return a + b +c;
