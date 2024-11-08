@@ -1,6 +1,8 @@
 /**
  * The Calculator class provides methods to perform basic arithmetic operations.
  */
+/**this is new */
+/** first */
 public class Calculator {
 
     /**
@@ -10,6 +12,7 @@ public class Calculator {
      * @param b the second number
      * @param c the third number
      * @return the sum of a and b
+     * @author
      */
     public int add(int a, int b , int c) {
         return a + b +c;
