@@ -13,7 +13,7 @@ public class Calculator {
      * Adds two numbers together.
      * test
      *
-     * @param a the 1st number
+     * @param a 1st command
      * @param b the second number
      * @param c the third number
      * @return the sum of a and b
